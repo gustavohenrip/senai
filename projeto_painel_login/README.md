@@ -18,10 +18,4 @@ Este é um projeto Flutter simples de **painel de login**, desenvolvido como par
 
 ## 📷 Captura de tela
 
-<img src="assets/login_screen.png" width="300">
-
-## 🚀 Como rodar o projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/login_flutter_app.git
+<img src="lib/image.png" width="300">
