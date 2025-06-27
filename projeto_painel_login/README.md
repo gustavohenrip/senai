@@ -1,16 +1,21 @@
-# projeto_painel_login
+# 📱 Painel de Login em Flutter
 
-A new Flutter project.
+Este é um projeto Flutter simples de **painel de login**, desenvolvido como parte da atividade da disciplina de [Nome da Disciplina] sob orientação do professor [Nome do Professor].
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Tela de login com campos de e-mail e senha
+- Validação básica de entrada (formulário)
+- Botão de "Entrar"
+- Feedback visual de erro
+- Design simples e responsivo
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tecnologias utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- Widgets nativos do Flutter (`TextField`, `ElevatedButton`, `Form`, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Captura de tela
+
+<img src="lib/image.png" width="300">
