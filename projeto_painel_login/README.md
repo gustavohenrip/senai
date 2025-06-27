@@ -5,16 +5,13 @@ Este é um projeto Flutter simples de **painel de login**, desenvolvido como par
 ## ✨ Funcionalidades
 
 - Tela de login com campos de e-mail e senha
-- Validação básica de entrada (formulário)
 - Botão de "Entrar"
-- Feedback visual de erro
 - Design simples e responsivo
 
 ## 🛠 Tecnologias utilizadas
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
-- Widgets nativos do Flutter (`TextField`, `ElevatedButton`, `Form`, etc.)
 
 ## 📷 Captura de tela
 
